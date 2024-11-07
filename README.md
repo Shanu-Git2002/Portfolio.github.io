@@ -27,7 +27,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Shanu-Git2002](https://github.com/Shanu-Git2002/Portfolio.github.io). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Shanu-Git2002](https://github.com/Shanu-Git2002/Portfolio.github.io/Yourparagraphtext.png). Thanks!
 
 ## Built With
 
